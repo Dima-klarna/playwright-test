@@ -1,0 +1,251 @@
+# Page snapshot
+
+```yaml
+- link "Zum Inhalt springen":
+  - /url: "#content"
+- banner:
+  - link "POLAVIS Logo":
+    - /url: https://polavis.de/
+    - img "POLAVIS Logo"
+  - navigation "Hauptmenü":
+    - search:
+      - text: "Suche nach:"
+      - searchbox "Suchen...": termin
+      - button "Suche": 
+    - button "Schließe die Suche"
+- main:
+  - heading "Entscheiden Sie sich für das Patientenportal, das perfekt zu Ihnen passt." [level=1]:
+    - text: Entscheiden Sie sich für das
+    - strong: Patientenportal
+    - text: ", das perfekt zu Ihnen passt."
+  - heading "Fristgerecht einführen & zukunftssicher aufstellen!" [level=2]
+  - link "Erfahren Sie mehr über das POLAVIS Patientenportal.":
+    - /url: https://polavis.de/patientenportal-nach-khzg/
+    - text: MEHR ERFAHREN
+  - img "POLAVIS ist Bester Berater im brand eins-Ranking"
+  - img "100 Prozent KHZG-konform"
+  - img "Alle KHZG-Muss-Kriterien werden erfüllt"
+  - heading "Darum halten wir Ihren Zeitplan zuverlässig ein" [level=2]
+  - paragraph:
+    - text: POLAVIS steht für
+    - strong: Perfektion von Konzeption bis Live-Betrieb
+    - text: . Dank klar durchdachter Software und der Erfahrung aus vielen erfolgreich abgeschlossenen Einführungsprojekten etablieren Sie Ihr KHZG-Projekt mit uns zuverlässig innerhalb der gesetzten Fristen.
+  - heading "Wir bleiben auf dem Weg Richtung Zukunft an Ihrer Seite" [level=2]
+  - paragraph:
+    - text: POLAVIS wurde gegründet, um ein
+    - strong: großes Verständnis von klinischen Abläufen
+    - text: und einer klaren Vorstellung davon, wie man sie optimiert und digitalisiert,
+    - strong: mit der passenden Technik zusammenzubringen
+    - text: . Wir setzen auf Mitarbeiter, die aus dem Krankenhaus kommen und die Umgebung fachlich kennen, sowie auf Spezialisten, die die Themen verstehen, zusammenführen und für die Qualität sorgen, die unsere Kunden nachweislich schätzen.
+  - link "Mit uns":
+    - /url: https://polavis.de/ueber-uns/
+  - heading "Darum wird Ihr IT-Projekt erfolgreich" [level=2]
+  - paragraph:
+    - text: „
+    - emphasis: Unser Ansatz ist, Kunden einen echten Rat zu geben. Wir zielen über das Projekt hinaus. Wir
+    - emphasis:
+      - text: suchen
+      - strong: die perfekte Lösung
+      - text: . Unsere Kunden schätzen die Zusammenarbeit, die Transparenz im Projekt und dass wir bis zum Ende für die Ergebnisse einstehen.
+    - text: “
+  - paragraph: Dr. Manuel Iserloh, Geschäftsführer POLAVIS
+  - blockquote:
+    - paragraph: Vom fertigen Konzept bis zur digitalen Anbindung einer Ambulanz dauert es gerade mal acht Wochen.
+  - img "Nikolaus Schrenk, Geschäftsführer der kbo Gesellschaft für Ergänzende Versorgungsangebote gGmbH und der IT des Bezirks Oberbayern."
+  - text: Nikolaus Schrenk, Geschäftsführer der kbo Gesellschaft für Ergänzende Versorgungsangebote gGmbH und der IT des Bezirks Oberbayern
+  - heading "Das Krankenhaus der Zukunft" [level=2]:
+    - link "Das Krankenhaus der Zukunft":
+      - /url: https://polavis.de/krankenhaus-der-zukunft/
+      - paragraph: Das Krankenhaus der Zukunft
+  - paragraph: Durch das Krankenhauszukunftsgesetz (KHZG) erhält die Digitalisierung der Kliniklandschaft einen deutlichen Anschub. Dennoch sind diese Schritte für Sie nur der Anfang eines dauerhaften Transformationsprozesses – hin in Richtung Krankenhaus der Zukunft. Hinter dem Begriff steht eine Vision und das POLAVIS Patientenportal ist der wesentliche Baustein dieser Zukunftsvision, denn es erfüllt viele Ihrer heute bestehenden Anforderungen und ermöglicht ebenso viele Ihrer denkbaren Bedarfe der Zukunft.
+  - heading "Prozessoptimierung" [level=3]:
+    - paragraph: Prozessoptimierung
+  - paragraph: Mit der Einführung eines Patientenportals sorgen Sie für transparente, optimale Prozesse und langfristige Prozesssicherheit.
+  - img "Eine Ärztin sitzt an ihrem PC im Behandlungszimmer und nutzt das POLAVIS Patientenportal."
+  - heading "Erlössicherung" [level=3]:
+    - paragraph: Erlössicherung
+  - paragraph: Mit dem POLAVIS Patientenportal legen Sie heute schon die Grundlagen für spätere Entwicklungen und langfristige Erlössicherung.
+  - img "Mehrere Ärzte und Ärztinnen sind verschwommen zu erkennen, wie sie den Gang einer Klinik entlanggehen."
+  - link "Erfahren Sie mehr über das POLAVIS Patientenportal.":
+    - /url: https://polavis.de/patientenportal-nach-khzg/
+    - text: MEHR ERFAHREN
+  - heading "Patientenzufriedenheit" [level=3]:
+    - paragraph: Patientenzufriedenheit
+  - paragraph: Reibungslose Prozesse ermöglichen Ihrem Pflegepersonal und Ihren Ärzten, mehr Zeit mit Patienten zu verbringen.
+  - img "Ein Arzt blickt fröhlich auf zwei Patienten, ein Kind und seine Mutter, die im Vordergrund verschwommen zu sehen sind."
+  - button "LESEN SIE JETZT DAS POLAVIS WHITEPAPER „DAS KRANKENHAUS DER ZUKUNFT“"
+  - group "7 / 19":
+    - img "Logo des POLAVIS Kunden Recura"
+  - group "8 / 19":
+    - img "Logo des POLAVIS Kunden Klinikum Fulda"
+  - group "9 / 19":
+    - img "Logo des POLAVIS Kunden RBK"
+  - group "10 / 19":
+    - img "Logo des POLAVIS Kunden Rheumazentrum Rheinland Pfalz"
+  - group "11 / 19":
+    - img "Logo des POLAVIS Kunden UK Würzburg"
+  - group "12 / 19":
+    - img "Logo des POLAVIS Kunden Kreiskrankenhaus Torgau"
+  - group "13 / 19":
+    - img "Logo des POLAVIS Kunden Gesundheit-Nordhessen"
+  - group "14 / 19":
+    - img "Logo des POLAVIS Kunden Deutscher Gemeinschafts Diakonieverband"
+  - group "15 / 19":
+    - img "Logo des POLAVIS Kunden Klinik Ludwigshafen"
+  - group "16 / 19":
+    - img "Logo des POLAVIS Kunden GFO"
+  - group "17 / 19":
+    - img "Logo des POLAVIS Kunden Klinikum Nürnberg"
+  - group "18 / 19":
+    - img "Logo des POLAVIS Kunden UKRB"
+  - group "19 / 19":
+    - img "Logo des POLAVIS Kunden Pius-Hospital Oldenburg"
+  - group "1 / 19":
+    - img "Logo des POLAVIS Kunden Gemeinschaftskrankenhaus-Bonn"
+  - group "2 / 19":
+    - img "Logo des POLAVIS Kunden Universitätsmedizin Mannheim"
+  - group "3 / 19":
+    - img "Logo des POLAVIS Kunden Universitaetsklinikum-Ulm"
+  - group "4 / 19":
+    - img "Logo des POLAVIS Kunden IKKBB"
+  - group "5 / 19":
+    - img "Logo des POLAVIS Kunden kbo"
+  - group "6 / 19":
+    - img "Logo des POLAVIS Kunden Klinikum Chemnitz"
+  - button "Previous slide"
+  - button "Next slide"
+  - heading [level=3]
+  - status
+  - list
+  - form "Kontaktformular":
+    - paragraph:
+      - textbox "name"
+    - paragraph
+    - paragraph:
+      - textbox "unternehmen"
+    - paragraph
+    - paragraph:
+      - textbox "email"
+    - paragraph:
+      - textbox "telefon"
+    - paragraph
+    - paragraph:
+      - textbox "message"
+    - paragraph:
+      - checkbox "Ich stimme dem Datenschutz zu. Sie können Ihre Einwilligung jederzeit per E-Mail an info@polavis.de widerrufen."
+      - text: Ich stimme dem
+      - link "Datenschutz":
+        - /url: https://polavis.de/datenschutzerklaerung/
+      - text: zu. Sie können Ihre Einwilligung jederzeit per E-Mail an info@polavis.de widerrufen.
+    - paragraph:
+      - button "Nachricht senden"
+    - text: "Alternative:"
+    - 'textbox "Alternative: Alternative:"'
+  - group "3 / 5":
+    - link "New Work auf Basis des Patientenportals":
+      - /url: https://polavis.de/blog/new-work-auf-basis-des-patientenportals/
+      - img "Eine Patientenaufnahme in einem Klinikum. Im Vordergrund arbeitet eine Ärztin an ihrem Computer im Patientenportal, im Hintergrund sieht man eine Patientin an der Anmeldung."
+    - link "mehr lesen":
+      - /url: https://polavis.de/blog/new-work-auf-basis-des-patientenportals/
+    - heading "New Work auf Basis des Patientenportals" [level=3]:
+      - link "New Work auf Basis des Patientenportals":
+        - /url: https://polavis.de/blog/new-work-auf-basis-des-patientenportals/
+    - paragraph: "Die Herausforderungen der Gesundheitsversorger sind deckungsgleich: Erlössicherung und wirtschaftliche Zukunftsfähigkeit, Prozessoptimierungen und digitale Transformation sowie der Fachkräftemangel. Die Gemeinsamkeiten legen übergreifende Antworten nahe. New Work, ermöglicht durch das Patientenportal, kann eine dieser Antworten sein."
+  - group "4 / 5":
+    - link "Krankenhaus-IT Journal Presserunde Patientenportale":
+      - /url: https://polavis.de/blog/krankenhaus-it-journal-presserunde-patientenportale/
+      - img "Dr. Manuel Iserloh spricht auf der KH IT-Presserunde auf der DMEA. Er hält ein Mikrofon in der Hand."
+    - link "mehr lesen":
+      - /url: https://polavis.de/blog/krankenhaus-it-journal-presserunde-patientenportale/
+    - heading "Krankenhaus-IT Journal Presserunde Patientenportale" [level=3]:
+      - link "Krankenhaus-IT Journal Presserunde Patientenportale":
+        - /url: https://polavis.de/blog/krankenhaus-it-journal-presserunde-patientenportale/
+    - paragraph: Die DMEA ist für das Krankenhaus-IT Journal eine Plattform ausgesuchter Vernetzungsformate. Eines davon ist die KH-IT Journal TV-Presserunde „Patientenportale“, zu der Dr. Manuel Iserloh, Geschäftsführer der POLAVIS GmbH, als Digitalisierungspartner der Kliniken und erfolgreicher Portalanbieter eingeladen war.
+  - group "5 / 5":
+    - link "Swiss eHealth-Barometer 2025":
+      - /url: https://polavis.de/blog/swiss-ehealth-barometer-2025/
+      - img "Ein Schweizer Arzt arbeitet auf seinem Pad."
+    - link "mehr lesen":
+      - /url: https://polavis.de/blog/swiss-ehealth-barometer-2025/
+    - heading "Swiss eHealth-Barometer 2025" [level=3]:
+      - link "Swiss eHealth-Barometer 2025":
+        - /url: https://polavis.de/blog/swiss-ehealth-barometer-2025/
+    - paragraph: Seit 2009 wird in der Schweiz im Auftrag des Bundesamts für Gesundheit (BAG) das Swiss eHealth-Barometer des Swiss eHealth Forums in Zusammenarbeit mit gfs.bern erhoben. Das Ergebnis ist ein repräsentativer Blick auf den erreichten Digitalisierungsstand und aktuelle Initiativen. Dazu gehören unter anderem das elektronische Patientendossier (EPD).
+  - group "1 / 5":
+    - link "Von virtuellen Reisen zu vHealth für das Gesundheitswesen":
+      - /url: https://polavis.de/blog/von-virtuellen-reisen-zu-vhealth-fuer-das-gesundheitswesen/
+      - img "Zwei Senioren nutzen die vJourney-Brillen für eine virtuelle Reise."
+    - link "mehr lesen":
+      - /url: https://polavis.de/blog/von-virtuellen-reisen-zu-vhealth-fuer-das-gesundheitswesen/
+    - heading "Von virtuellen Reisen zu vHealth für das Gesundheitswesen" [level=3]:
+      - link "Von virtuellen Reisen zu vHealth für das Gesundheitswesen":
+        - /url: https://polavis.de/blog/von-virtuellen-reisen-zu-vhealth-fuer-das-gesundheitswesen/
+    - paragraph: Wer aufgrund von Umständen zu Hause bleiben muss, gewinnt dank virtueller Erfahrungen wieder neue Eindrücke und durchlebt zugehörige Emotionen, die sonst unerreichbar wären. Auch der Einarbeitungsaufwand neuer Mitarbeitender lässt sich per VR-Brille deutlich reduzieren und der Inhalt sprachübergreifend anbieten. Entscheidend gerade im Gesundheitswesen.
+  - group "2 / 5":
+    - link "Zweite digitale Reifegradmessung der Krankenhäuser":
+      - /url: https://polavis.de/blog/zweite-digitale-reifegradmessung-der-krankenhaeuser/
+      - img "Eine Pflegerin spricht mit einer Patientin und blickt dabei auf ihr Pad, auf dem sie das Patientenportal nutzt."
+    - link "mehr lesen":
+      - /url: https://polavis.de/blog/zweite-digitale-reifegradmessung-der-krankenhaeuser/
+    - heading "Zweite digitale Reifegradmessung der Krankenhäuser" [level=3]:
+      - link "Zweite digitale Reifegradmessung der Krankenhäuser":
+        - /url: https://polavis.de/blog/zweite-digitale-reifegradmessung-der-krankenhaeuser/
+    - paragraph: Die Beteiligung an der zweiten Reifegradmessung ist im Vergleich nahezu unverändert. Deutlich höher ausgefallen ist hingegen der durchschnittliche DigitalRadar-Score, der in der zweiten Erhebung bei 42,4 liegt. Obgleich der Verbesserung um 9,1 Punkte besteht mit Blick auf den möglichen Maximalwert ein nach wie vor erhebliches Verbesserungspotenzial
+  - button "Previous slide"
+  - button "Next slide"
+  - link "Termin vereinbaren":
+    - /url: https://polavis.de/#kontakt
+    - img
+    - paragraph: Termin vereinbaren
+  - link "Patientenportal":
+    - /url: https://polavis.de/patientenportal-nach-khzg/
+    - img
+    - paragraph: Patientenportal
+  - link "POLAVIS Magazin":
+    - /url: https://polavis.de/magazin/
+    - img
+    - paragraph: POLAVIS Magazin
+- link:
+  - /url: ""
+  - img
+- heading "Kontakt" [level=3]
+- link:
+  - /url: "#"
+- link "Info@polavis.de":
+  - /url: mailto:info@polavis.de
+- link "+49 30 4036845-45":
+  - /url: tel:+4930403684545
+- link "POLAVIS auf LinkedIn":
+  - /url: https://www.linkedin.com/company/polavisgmbh
+- paragraph
+- heading "Sitemap" [level=3]
+- link:
+  - /url: "#"
+- link "Home":
+  - /url: https://polavis.de/
+- link "Mit uns":
+  - /url: https://polavis.de/ueber-uns/
+- link "Kontakt":
+  - /url: https://polavis.de/#kontakt-side
+- heading "Ressourcen" [level=3]
+- link:
+  - /url: "#"
+- link "Presseportal":
+  - /url: https://polavis.de/presse/
+- link "Magazin":
+  - /url: https://polavis.de/magazin/
+- link "Referenzen":
+  - /url: https://polavis.de/referenzen/
+- heading "Rechtliches" [level=3]
+- link:
+  - /url: "#"
+- link "Impressum":
+  - /url: https://polavis.de/impressum/
+- link "Datenschutzerklärung":
+  - /url: https://polavis.de/datenschutzerklaerung/
+- region "Nach oben":
+  - link " Nach oben":
+    - /url: "#"
+- button "CMP-Widget öffnen":
+  - img
+```
