@@ -6,7 +6,7 @@ const { defineConfig } = require('@playwright/test');
 
 module.exports = defineConfig({
   use: {
-    headless: false,   // показываем браузер
+    headless: true,   // показываем браузер
     launchOptions: {
       slowMo: 2000      // задержка 0.5 секунды между действиями
     },
